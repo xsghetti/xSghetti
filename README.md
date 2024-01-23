@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xSghetti
 - 👀 I’m interested in learning Linux(Arch specifically)
-- 🌱 I’m currently learning Linux
+- 🌱 Teach me to rice, senpai
 
 
 <!---
