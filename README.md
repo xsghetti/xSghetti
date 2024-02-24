@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xSghetti
-- 👀 I’m interested in learning Linux(Arch specifically)
+- 👀 I’m interested in learning Linux(Arch specifically), and Web Development
 - 🌱 Teach me to rice, senpai
 
 
