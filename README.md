@@ -11,7 +11,8 @@
 
 - 👋 Hi, I’m @xSghetti
 - 👀 I’m currently learning Linux(Arch specifically), and Web Development
-- 🌱 Aesthetic Junkie/Rice Hobbyist<br>
+- 🌱 Aesthetic Junkie
+- 🍚 Got Rice?
 
 ---
 
