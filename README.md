@@ -1,15 +1,21 @@
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Greetings,+Traveler!" /> 
+ 
 ![pc](https://github.com/xsghetti/xSghetti/assets/150515748/a7d82590-5376-475a-8e74-e8ad6eb47cdb)
 
-<h1 align="center">
- Greetings, Traveler 
-<img src="https://raw.githubusercontent.com/mag4no10/mag4no10/main/assets/hand_waving.gif" alt="Gem Stone" width="40" height="40" />
-</h1>
+
+
+<img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJvbXdkYmVrczlhN3oxZWJtdGh1NnI1ODhkdHJ0NWt0ZzhhN3B5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+---
 
 - 👋 Hi, I’m @xSghetti
-- 👀 I’m interested in learning Linux(Arch specifically), and Web Development
-- 🌱 Teach me to rice, senpai<br>
+- 👀 I’m currently learning Linux(Arch specifically), and Web Development
+- 🌱 Aesthetic Junkie/Rice Hobbyist<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsghetti&show_icons=true&theme=synthwave)
+---
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsghetti&theme=tokyonight) 
 
 <!---
 xSghetti/xSghetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
