@@ -18,6 +18,8 @@
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xsghetti&theme=tokyonight) 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xsghetti&label=Profile%20views&color=0e75b6&style=flat" alt="xsghetti" /> </p>
+
 
 
 <!---
