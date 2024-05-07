@@ -10,7 +10,7 @@
 ---
 
 - 👋 Hi, I’m @xSghetti
-- 👀 I’m currently learning Linux(Arch specifically), and Web Development
+- 👀 I’m currently learning Web Development
 - 🌱 Aesthetic Junkie
 - 🍚 Got Rice?
 
